@@ -11,6 +11,7 @@
     "light": "/logo/dark.svg",
     "dark": "/logo/light.svg"
   },
+  "hideSidebar": true,
   "navbar": {
     // the links shown in the top right
     "links": [
