@@ -47,6 +47,6 @@
   },
   // to add new domains you can simply add them here, then add a CNAME record pointing to cname.fumabase.com
   "domains": [
-    "remorses-qrf03wrj.fumabase.com"
+    "zod-v3.fumabase.com"
   ]
 }
